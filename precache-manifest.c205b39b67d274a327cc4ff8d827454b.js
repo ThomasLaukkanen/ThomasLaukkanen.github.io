@@ -1,10 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04fa6aedae2e96a1974c",
-    "url": "/css/app.ed8c3b49.css"
+    "revision": "8b2ee86aaeecc6bcd015",
+    "url": "/css/app.d3547479.css"
   },
   {
-    "revision": "32044aec957a359e5ec8223a39ac5c78",
+    "revision": "d4058a07f751527253a7a7f8414f325f",
+    "url": "/img/goteborg.d4058a07.png"
+  },
+  {
+    "revision": "c7332f682988392c84c5e3f2bd577be4",
     "url": "/index.html"
   },
   {
@@ -12,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.7582c44f.js"
   },
   {
-    "revision": "04fa6aedae2e96a1974c",
-    "url": "/js/app.1e3d9e4c.js"
+    "revision": "8b2ee86aaeecc6bcd015",
+    "url": "/js/app.06dd969a.js"
   },
   {
     "revision": "8f900f6b5b3f59f30150",
